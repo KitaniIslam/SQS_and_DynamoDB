@@ -1,0 +1,8 @@
+{
+  "name": "aws-sqs-dynamoDB",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "aws-sdk": "~2.202.0"
+  }
+}
