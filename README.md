@@ -11,4 +11,5 @@ Reading Messages from SQS and put them in DynamoDB before delete the message fro
     + config-sample.json  (nano config-sample.json)
     + Add your Queue URL in " app.js "
     + Add your Region too in " app.js "
+. cp config-sample.json config.json
 . Use Forever-Service to make sure your app running even after Rebooting the instance .
